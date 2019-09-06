@@ -1,3 +1,7 @@
+    
+name: Mysql Test
+
+on: [push]
 jobs:
   test-host:
     runs-on: ubuntu-latest
